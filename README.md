@@ -2,7 +2,7 @@
 
 - Download this project or just copy this code into .bat file
 
-```
+```batch
 @echo off
 :label
 cls
