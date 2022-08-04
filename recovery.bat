@@ -7,5 +7,5 @@ cd /D %disk_flash%:
 if %errorlevel%==1 goto label
 cd /D %disk_flash%:
 attrib -h -r -s -a /D /S
-echo "Hidden files has recovered successfully!"
+echo "Hidden files have recovered successfully!"
 pause
